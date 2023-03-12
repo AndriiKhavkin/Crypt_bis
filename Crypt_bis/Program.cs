@@ -31,7 +31,7 @@ namespace Crypt_bis
             Console.WriteLine("\nDecrypted Data:\n");
             Console.WriteLine(decryptedText); 
             
-            Console.WriteLine("Time spent for caesar cypher it: " + clockCaesar.Elapsed);
+            Console.WriteLine("Time spent for caesar cypher: " + clockCaesar.Elapsed);
             
             clockGamma.Start();
             string cipherText2 = Gamma.GammaCipher(UserString, key2);
@@ -43,7 +43,7 @@ namespace Crypt_bis
             Console.WriteLine("\nDecrypted Data:\n");
             Console.WriteLine(decryptedText2); 
             
-            Console.WriteLine("Time spent for gamma cypher it: " + clockGamma.Elapsed);
+            Console.WriteLine("Time spent for gamma cypher: " + clockGamma.Elapsed);
             
             Console.ReadKey();  
             Console.ReadKey(); 
