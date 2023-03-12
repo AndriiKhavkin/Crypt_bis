@@ -1,0 +1,6 @@
+D:\Users\Andre\RiderProjects\Crypt_bis\Crypt_bis\bin\Debug\Crypt_bis.exe
+D:\Users\Andre\RiderProjects\Crypt_bis\Crypt_bis\bin\Debug\Crypt_bis.pdb
+D:\Users\Andre\RiderProjects\Crypt_bis\Crypt_bis\obj\Debug\Crypt_bis.csproj.AssemblyReference.cache
+D:\Users\Andre\RiderProjects\Crypt_bis\Crypt_bis\obj\Debug\Crypt_bis.csproj.CoreCompileInputs.cache
+D:\Users\Andre\RiderProjects\Crypt_bis\Crypt_bis\obj\Debug\Crypt_bis.exe
+D:\Users\Andre\RiderProjects\Crypt_bis\Crypt_bis\obj\Debug\Crypt_bis.pdb
